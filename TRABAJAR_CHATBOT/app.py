@@ -1,7 +1,7 @@
 import streamlit as st
 from tests.text import obtener_respuesta
 
-st.title("Hola esta es mi nueva app")
+st.title("ArcaIA Connect")
 
 prompt = st.text_input("Preguntale algo a Gemini")
 
