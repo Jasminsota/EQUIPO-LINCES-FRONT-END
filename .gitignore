@@ -40,7 +40,3 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
-
-# Ignora la app empaquetada en Electron
-Sistema_Ferremundo-win32-x64/
-Sistema_Ferremundo-*/  # en caso de que cambie el nombre o la plataforma
